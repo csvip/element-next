@@ -31,5 +31,8 @@
     "gulp-dart-sass": "^1.0.2",
     "gulp-autoprefixer": "^6.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "browserslist": [
+    "defaults"
+  ]
 }
