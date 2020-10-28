@@ -1,5 +1,5 @@
 {
-  "name": "element-ui",
+  "name": "element-next",
   "version": "2.13.2",
   "description": "A Component Library for Vue.js.",
   "main": "lib/element-ui.common.js",
@@ -45,7 +45,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:ElemeFE/element.git"
+    "url": "git@github.com:csvip/element-next.git"
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
@@ -55,7 +55,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ElemeFE/element/issues"
+    "url": "https://github.com/csvip/element-next/issues"
   },
   "unpkg": "lib/index.js",
   "style": "lib/theme-chalk/index.css",
@@ -68,7 +68,7 @@
     "throttle-debounce": "^1.0.1"
   },
   "peerDependencies": {
-    "vue": "^2.5.17"
+    "vue": "^2.5.21"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.6.0",
